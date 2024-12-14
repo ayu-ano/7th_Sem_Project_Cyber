@@ -1,0 +1,4 @@
+abcxyz@example.com:1a
+qwerty@testmail.com:3z
+lmnpqr@fakemail.net:b7
+uvwxyz@mytest.org:d2
